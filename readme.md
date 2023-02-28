@@ -1,6 +1,6 @@
 # Js Shopping List
 
-fare una lista della spesa con il ciclo while al posto del ciclo for.
+Fare una lista della spesa con il ciclo while al posto del ciclo for.
 Facciamo attenzione a non dimenticare tutte le differenze implementative che il ciclo while ci impone, in particolare alla variabile di indice.
 
 ## Problem-Solving
